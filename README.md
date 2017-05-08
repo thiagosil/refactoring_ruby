@@ -1,4 +1,4 @@
-  
+
 Weeks  
 Week 1 - Foreword - Ch 1, pg 7\  
 Week 2 - Refactoring Ruby - Ep 2 (Ch 1, pg 7-18)  
@@ -12,19 +12,20 @@ Week 9 - Refactoring Ruby - Ep 9 (Ch 6, pg 133-142)
 Week 10 - Refactoring Ruby - Ep 10 (Ch 6, pg 142 - 152)  
 Week 11 - Refactoring Ruby - Ep 11 (Ch 6, pg 152-160)  
 Week 12 - Refactoring Ruby - Ep 12 (Ch 6, pg 160-166)  
-  
+
 Book Sections:  
-  
+
 Foreword                                                                    xiii  
 Preface                                                                       xv  
-  
-Chapter 1: Refactoring, a First Example                                        1  
+
+**Chapter 1: Refactoring, a First Example**                                        1  
 The Starting Point                                                             2  
 The First Step in Refactoring                                                  6  
 Decomposing and Redistributing the Statement Method                            7  
 Replacing the Conditional Logic on Price Code with Polymorphism               32  
 Final Thoughts                                                                50  
-Chapter 2: Principles in Refactoring                                          51  
+
+**Chapter 2: Principles in Refactoring                                          51**  
 Where Did Refactoring Come From?                                              51  
 Defining Refactoring                                                          52  
 Why Should You Refactor?                                                      54  
@@ -37,11 +38,8 @@ Refactoring and Design                                                        67
 It Takes A While to Create Nothing                                            69  
 Refactoring and Performance                                                   70  
 Optimizing a Payroll System                                                   71  
-  
-  
-  
-viii Contents  
-Chapter 3: Bad Smells in Code                                                 73  
+
+**Chapter 3: Bad Smells in Code                                                 73**  
 Duplicated Code                                                               74  
 Long Method                                                                   74  
 Large Class                                                                   76  
@@ -67,16 +65,18 @@ Comments                                                                      85
 Metaprogramming Madness                                                       86  
 Disjointed API                                                                86    
 Repetitive Boilerplate                                                        86    
-Chapter 4: Building Tests                                                     87  
+
+**Chapter 4: Building Tests                                                     87**  
 The Value of Self-Testing Code                                                87  
 The Test::Unit Testing Framework                                              88  
 Developer and Quality Assurance Tests                                         91  
 Adding More Tests                                                             92  
-  
-Chapter 5: Toward a Catalog of Refactorings                                   97  
+
+**Chapter 5: Toward a Catalog of Refactorings                                   97**  
 Format of the Refactorings                                                    97  
 Finding References                                                            99  
-Chapter 6: Composing Methods                                                 101  
+
+**Chapter 6: Composing Methods                                                 101**  
 Extract Method                                                               102  
 Inline Method                                                                108  
 Inline Temp                                                                  110  
@@ -98,15 +98,16 @@ Replace Dynamic Receptor with Dynamic Method
 Definition                                                                   158  
 Isolate Dynamic Receptor                                                     160  
 Move Eval from Runtime to Parse Time                                         165  
-Chapter 7: Moving Features Between Objects                                   167  
+
+**Chapter 7: Moving Features Between Objects                                   167**  
 Move Method                                                                  167  
 Move Field                                                                   172  
 Extract Class                                                                175  
 Inline Class                                                                 179  
 Hide Delegate                                                                181  
 Remove Middle Man                                                            185  
-  
-Chapter 8: Organizing Data                                                   187  
+
+**Chapter 8: Organizing Data                                                   187**  
 Self Encapsulate Field                                                       188  
 Replace Data Value with Object                                               191  
 Change Value to Reference                                                    194  
@@ -124,7 +125,8 @@ Replace Type Code with State/Strategy                                        239
 Replace Subclass with Fields                                                 251  
 Lazily Initialized Attribute                                                 255  
 Eagerly Initialized Attribute                                                257  
-Chapter 9: Simplifying Conditional Expressions                               261  
+
+**Chapter 9: Simplifying Conditional Expressions                               261**  
 Decompose Conditional                                                        261  
 Recompose Conditional                                                        264  
 Consolidate Conditional Expression                                           265  
@@ -134,10 +136,10 @@ Replace Nested Conditional with Guard Clauses                                274
 Replace Conditional with Polymorphism                                        279  
 Introduce Null Object                                                        284  
 Introduce Assertion                                                          292  
-Chapter 10: Making Method Calls Simpler                                      297  
+
+**Chapter 10: Making Method Calls Simpler                                      297**  
 Rename Method                                                                298  
 Add Parameter                                                                300  
-  
 Remove Parameter                                                             302  
 Separate Query from Modifier                                                 303  
 Parameterize Method                                                          307  
@@ -152,7 +154,8 @@ Replace Error Code with Exception                                            332
 Replace Exception with Test                                                  337  
 Introduce Gateway                                                            341  
 Introduce Expression Builder                                                 346  
-Chapter 11: Dealing with Generalization                                      353  
+
+**Chapter 11: Dealing with Generalization                                      353**  
 Pull Up Method                                                               353  
 Push Down Method                                                             356  
 Extract Module                                                               357  
@@ -164,7 +167,8 @@ Form Template Method                                                         372
 Replace Inheritance with Delegation                                          386  
 Replace Delegation with Hierarchy                                            389  
 Replace Abstract Superclass with Module                                      392  
-Chapter 12: Big Refactorings                                                 397  
+
+**Chapter 12: Big Refactorings                                                 397**  
 The Nature of the Game                                                       397  
 Why Big Refactorings Are Important                                           398  
 Four Big Refactorings                                                        398  
@@ -172,5 +176,5 @@ Tease Apart Inheritance                                                      399
 Convert Procedural Design to Objects                                         405  
 Separate Domain from Presentation                                            406  
 Extract Hierarchy                                                            412  
-Chapter 13: Putting It All Together                                          417  
-  
+
+**Chapter 13: Putting It All Together                                          417**  
