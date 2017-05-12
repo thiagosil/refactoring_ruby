@@ -14,29 +14,17 @@ class Customer
   def statement
     total_amount, frequent_renter_points = 0, 0
     result = "Rental Record for #{@name}\n"
-    @rentals.each do |element|
-      this_amount = 0
-
-      # determines amounts for each line
-      case element.movie.price_code
-      when Movie::REGULAR
-        this_amount += 2
-        this_amount += (element.days_rented - 2) * 1.5 if element.days_rented > 2
-      when Movie::NEW_RELEASE
-        this_amount += element.days_rented * 3
-      when Movie::CHILDREN
-        this_amount += 1.5
-        this_amount += (element.days_rented - 3) * 1.5 if element.days_rented > 3
-      end
+    @rentals.each do |rental|
+      this_amount = rental.charge
 
       # add frequent renter points
       frequent_renter_points += 1
       # add bonus for a two day new release rental
-      if element.movie.price_code == Movie::NEW_RELEASE && element.days_rented > 1
+      if rental.movie.price_code == Movie::NEW_RELEASE && rental.days_rented > 1
         frequent_renter_points += 1
       end
       # show figures for this rental
-      result += "\t" + element.movie.title + "\t" + this_amount.to_s + "\n"
+      result += "\t" + rental.movie.title + "\t" + this_amount.to_s + "\n"
       total_amount += this_amount
     end
     result += "Amount owed is #{total_amount}\n"
