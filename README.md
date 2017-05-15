@@ -1,17 +1,17 @@
 
 Weeks  
-[Week 1 - Foreword - Ch 1, pg 7](http://rubybookclub.com/episodes/2016/12/4/refactoring-ruby-ep-1-foreword-ch-1-pg-7-1)
-[Week 2 - Refactoring Ruby - Ep 2 (Ch 1, pg 7-18)](http://rubybookclub.com/episodes/2016/12/14/refactoring-ruby-ep-2-ch-1-pg-7-18)
-[Week 3 - Refactoring Ruby - Ep 3 (Ch 1, pg 18-50)](http://rubybookclub.com/episodes/2016/12/18/refactoring-ruby-ep-3-ch-1-pg-18-50)
-[Week 4 - Refactoring Ruby - Ep 4 (Ch 2, pg 51-61)](http://rubybookclub.com/episodes/2016/12/24/refactoring-ruby-ep-4-ch-2-pg-51-61)
-[Week 5 - Refactoring Ruby - Ep 5 (Ch 2, pg 61-72)](http://rubybookclub.com/episodes/2016/12/30/refactoring-ruby-ep-5-ch-2-pg-61-72)
-[Week 6 - Refactoring Ruby - Ep 6 (Ch 6, pg 101-110)](http://rubybookclub.com/episodes/2017/1/8/refactoring-ruby-ep-6-ch-6-pg-101-110)
-[Week 7 - Refactoring Ruby - Ep 7 (Ch 6, pg 111-124)](http://rubybookclub.com/episodes/2017/1/14/refactoring-ruby-ep-7-ch-6-pg-111-124)
-[Week 8 - Refactoring Ruby - Ep 8 (Ch 6, pg 124-132)](http://rubybookclub.com/episodes/2017/1/24/refactoring-ruby-ep-8-ch-6-pg-124-132)
-[Week 9 - Refactoring Ruby - Ep 9 (Ch 6, pg 133-142)](http://rubybookclub.com/episodes/2017/2/10/refactoring-ruby-ep-9-ch-6-pg-133-142)
-[Week 10 - Refactoring Ruby - Ep 10 (Ch 6, pg 142 - 152)](http://rubybookclub.com/episodes/2017/2/20/refactoring-ruby-ep-10-ch-6-pg-142-152)
-[Week 11 - Refactoring Ruby - Ep 11 (Ch 6, pg 152-160)](http://rubybookclub.com/episodes/2017/2/23/refactoring-ruby-ep-11-ch-6-pg-152-160)
-[Week 12 - Refactoring Ruby - Ep 12 (Ch 6, pg 160-166)](http://rubybookclub.com/episodes/2017/3/13/refactoring-ruby-ep-12-ch-6-pg-160-166)
+[Week 1 - Foreword - Ch 1, pg 7](http://rubybookclub.com/episodes/2016/12/4/refactoring-ruby-ep-1-foreword-ch-1-pg-7-1)  
+[Week 2 - Refactoring Ruby - Ep 2 (Ch 1, pg 7-18)](http://rubybookclub.com/episodes/2016/12/14/refactoring-ruby-ep-2-ch-1-pg-7-18)  
+[Week 3 - Refactoring Ruby - Ep 3 (Ch 1, pg 18-50)](http://rubybookclub.com/episodes/2016/12/18/refactoring-ruby-ep-3-ch-1-pg-18-50)  
+[Week 4 - Refactoring Ruby - Ep 4 (Ch 2, pg 51-61)](http://rubybookclub.com/episodes/2016/12/24/refactoring-ruby-ep-4-ch-2-pg-51-61)  
+[Week 5 - Refactoring Ruby - Ep 5 (Ch 2, pg 61-72)](http://rubybookclub.com/episodes/2016/12/30/refactoring-ruby-ep-5-ch-2-pg-61-72)  
+[Week 6 - Refactoring Ruby - Ep 6 (Ch 6, pg 101-110)](http://rubybookclub.com/episodes/2017/1/8/refactoring-ruby-ep-6-ch-6-pg-101-110)  
+[Week 7 - Refactoring Ruby - Ep 7 (Ch 6, pg 111-124)](http://rubybookclub.com/episodes/2017/1/14/refactoring-ruby-ep-7-ch-6-pg-111-124)  
+[Week 8 - Refactoring Ruby - Ep 8 (Ch 6, pg 124-132)](http://rubybookclub.com/episodes/2017/1/24/refactoring-ruby-ep-8-ch-6-pg-124-132)  
+[Week 9 - Refactoring Ruby - Ep 9 (Ch 6, pg 133-142)](http://rubybookclub.com/episodes/2017/2/10/refactoring-ruby-ep-9-ch-6-pg-133-142)  
+[Week 10 - Refactoring Ruby - Ep 10 (Ch 6, pg 142 - 152)](http://rubybookclub.com/episodes/2017/2/20/refactoring-ruby-ep-10-ch-6-pg-142-152)  
+[Week 11 - Refactoring Ruby - Ep 11 (Ch 6, pg 152-160)](http://rubybookclub.com/episodes/2017/2/23/refactoring-ruby-ep-11-ch-6-pg-152-160)  
+[Week 12 - Refactoring Ruby - Ep 12 (Ch 6, pg 160-166)](http://rubybookclub.com/episodes/2017/3/13/refactoring-ruby-ep-12-ch-6-pg-160-166)  
 
 Book Sections:  
 
