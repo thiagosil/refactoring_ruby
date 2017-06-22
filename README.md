@@ -7,13 +7,13 @@ Weeks
 [Week 5 - Refactoring Ruby - Ep 5 (Ch 2, pg 61-72)](http://rubybookclub.com/episodes/2016/12/30/refactoring-ruby-ep-5-ch-2-pg-61-72)  
 Week 7 - Refactoring Ruby (Ch 3, pg 73-86)  
 Week 8 - Refactoring Ruby (Ch 4-5, pg 87-99)  
-[Week 6 - Refactoring Ruby - Ep 6 (Ch 6, pg 101-110)](http://rubybookclub.com/episodes/2017/1/8/refactoring-ruby-ep-6-ch-6-pg-101-110)  
-[Week 7 - Refactoring Ruby - Ep 7 (Ch 6, pg 111-124)](http://rubybookclub.com/episodes/2017/1/14/refactoring-ruby-ep-7-ch-6-pg-111-124)  
-[Week 8 - Refactoring Ruby - Ep 8 (Ch 6, pg 124-132)](http://rubybookclub.com/episodes/2017/1/24/refactoring-ruby-ep-8-ch-6-pg-124-132)  
-[Week 9 - Refactoring Ruby - Ep 9 (Ch 6, pg 133-142)](http://rubybookclub.com/episodes/2017/2/10/refactoring-ruby-ep-9-ch-6-pg-133-142)  
-[Week 10 - Refactoring Ruby - Ep 10 (Ch 6, pg 142 - 152)](http://rubybookclub.com/episodes/2017/2/20/refactoring-ruby-ep-10-ch-6-pg-142-152)  
-[Week 11 - Refactoring Ruby - Ep 11 (Ch 6, pg 152-160)](http://rubybookclub.com/episodes/2017/2/23/refactoring-ruby-ep-11-ch-6-pg-152-160)  
-[Week 12 - Refactoring Ruby - Ep 12 (Ch 6, pg 160-166)](http://rubybookclub.com/episodes/2017/3/13/refactoring-ruby-ep-12-ch-6-pg-160-166)  
+[Week 9 - Refactoring Ruby - Ep 6 (Ch 6, pg 101-110)](http://rubybookclub.com/episodes/2017/1/8/refactoring-ruby-ep-6-ch-6-pg-101-110)  
+[Week 10 - Refactoring Ruby - Ep 7 (Ch 6, pg 111-124)](http://rubybookclub.com/episodes/2017/1/14/refactoring-ruby-ep-7-ch-6-pg-111-124)  
+[Week 11 - Refactoring Ruby - Ep 8 (Ch 6, pg 124-132)](http://rubybookclub.com/episodes/2017/1/24/refactoring-ruby-ep-8-ch-6-pg-124-132)  
+[Week 12 - Refactoring Ruby - Ep 9 (Ch 6, pg 133-142)](http://rubybookclub.com/episodes/2017/2/10/refactoring-ruby-ep-9-ch-6-pg-133-142)  
+[Week 13 - Refactoring Ruby - Ep 10 (Ch 6, pg 142 - 152)](http://rubybookclub.com/episodes/2017/2/20/refactoring-ruby-ep-10-ch-6-pg-142-152)  
+[Week 14 - Refactoring Ruby - Ep 11 (Ch 6, pg 152-160)](http://rubybookclub.com/episodes/2017/2/23/refactoring-ruby-ep-11-ch-6-pg-152-160)  
+[Week 15 - Refactoring Ruby - Ep 12 (Ch 6, pg 160-166)](http://rubybookclub.com/episodes/2017/3/13/refactoring-ruby-ep-12-ch-6-pg-160-166)  
 
 Book Sections:  
 
